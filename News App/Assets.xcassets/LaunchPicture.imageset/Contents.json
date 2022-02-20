@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "kisspng-free-content-scroll-clip-art-scroll-cliparts-logo-5a796fb7647969.0683026915179078954116.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "kisspng-free-content-scroll-clip-art-scroll-cliparts-logo-5a796fb7647969.0683026915179078954116-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "kisspng-free-content-scroll-clip-art-scroll-cliparts-logo-5a796fb7647969.0683026915179078954116-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
