@@ -3,7 +3,7 @@ My first app working with API and UserDefaults
 
 You can choose language (russian or english) and choose subject of articles.
 
-Then you can go to site where information was took from.
+Then you can go to site where information was taken from.
 
 Visits of each article are counted.
 
